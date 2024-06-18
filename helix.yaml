@@ -1,0 +1,5 @@
+name: Printer advice tool
+description: Ask me questions about printers
+assistants:
+- model: llama3:instruct
+  rag_source_id: af9b4dc8-cc10-4e21-9a5f-bc1f12b6cab9
